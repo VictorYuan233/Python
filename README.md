@@ -1,2 +1,2 @@
 # Python
- Beginning Python From Novice to Professional-Professional(Third Edition)
+ Beginning Python From Novice to Professional (Third Edition)
